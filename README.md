@@ -1,4 +1,5 @@
 # Power_BI_Dashboard_
+Holiday spending analysis
 Project Title: Sales Performance Analysis
 
 Objective: To analyze sales performance across multiple channels and item types, providing actionable insights for decision-making.
